@@ -1,0 +1,31 @@
+_repo: Chinese-Fables-and-Folk-Stories_74897
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Davis, Mary Hayes
+    gutenberg_agent_id: '57713'
+    url: http://www.gutenberg.org/2009/agents/57713
+  - agent_name: Chow-Leung
+    gutenberg_agent_id: '57714'
+    url: http://www.gutenberg.org/2009/agents/57714
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74897'
+language: en
+pgterms:marc904: https://archive.org/details/chinesefablesfol00davi/page/n1/mode/2up
+pgterms:marc905: 20200418055541hayesdavis
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bAmerican Book Company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chinese Fables and Folk Stories
+url: http://www.gutenberg.org/ebooks/74897
