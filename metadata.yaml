@@ -1,5 +1,8 @@
 _repo: Chinese-Fables-and-Folk-Stories_74897
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Davis, Mary Hayes
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57714'
     url: http://www.gutenberg.org/2009/agents/57714
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74897#Chinese-Fables-and-Folk-Stories
 gutenberg_issued: '2024-12-14'
 gutenberg_type: Text
 identifiers:
